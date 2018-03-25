@@ -14,7 +14,7 @@ void foo(int y){
 		}
 	}
 }
-void main(){
+int main(){
 	foo(1);
 	std::cout << counter;
 }
